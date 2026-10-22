@@ -1,143 +1,64 @@
-<div align="center">
+# Hi, I'm Aira Jena 👋
 
-![](images/banner.jpg)
-</div>
+**Backend engineer building fast, correct financial systems.**
+Go · Java · PostgreSQL · Distributed Systems · Open Source
 
-<h1 align="center"> नमस्ते (Namaste), I'm Aira Jena <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> !</h1>
+SDE-I at BLG Technologies (remote) · Google Summer of Code 2026 contributor at Apache Fineract · 40+ merged open-source PRs · LeetCode Knight (top 2%, peak rating 2058)
 
-<h3 align="center">I'm a Frontend Developer from India ❤</h3>
-  
-A 20 Y/O Tech Enthusiast🎯 from India. I'm passionate about Software Development. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that I also love problem solving and solve algorithmic problems 👨🏻‍💻. I'm currently into Full Stack Development ⚒️ and working on my Data Structures and Algorithms skills 🚀.
+Based in India, working remotely and async-first. Open to full-time and contract roles with startups and international teams.
 
-<br >
-
-
-![age](https://img.shields.io/badge/age-20-cyan)
-![focus](https://img.shields.io/badge/focus-FullStack(MERN)-cyan)
-![living](https://img.shields.io/badge/living-India-cyan)
-
-<img width="50%" align="right" alt="Github Image" src="./images/path.svg" />
-
-- 🌱 I’m currently learning Backend and NextJs
-- 👯 I’m looking to collaborate on Full Stack Projects
-- 📫 How to reach me: You may follow me on [Linkedin](https://www.linkedin.com/in/aira-jena/) 
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Dependent on Tutorials! 
-<br />
-<br />
-
-<div align="center">
-
-</div>
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=0xaira&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=0xaira&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0xaira&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=0xaira&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4) -->
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=0xaira&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-## My Featured Projects
-
-1. **Oishi**: Oishi, a React.js-based food ordering website, seamlessly connects users with their favorite dishes through the live Swiggy API.
-   [GitHub Repo](https://github.com/yourusername/project1) | [Hosted Site](https://yoursite.com/project1)
-
-2. **E-commerce App**: An e-commerce application built with React and Redux, featuring a user-friendly interface for browsing and purchasing products.
-   [GitHub Repo](https://github.com/yourusername/ecommerce-app) | [Hosted Site](https://yoursite.com/ecommerce-app)
-
-3. **Netflix Clone**: A Netflix clone developed using React, showcasing similar functionalities such as user authentication, movie browsing, and playback.
-   [GitHub Repo](https://github.com/yourusername/netflix-clone) | [Hosted Site](https://yoursite.com/netflix-clone)
-
-4. **YouTube Clone**: This YouTube clone is built with React and utilizes the YouTube Data API, allowing users to search and watch videos in a familiar interface.
-   [GitHub Repo](https://github.com/yourusername/youtube-clone) | [Hosted Site](https://yoursite.com/youtube-clone)
-
-5. **Crypto Tracker App**: A cryptocurrency tracking application built with React and leveraging real-time data from cryptocurrency APIs, providing users with insights into market trends.
-   [GitHub Repo](https://github.com/yourusername/crypto-tracker) | [Hosted Site](https://yoursite.com/crypto-tracker)
-
-6. **Personal Portfolio**: My personal portfolio website, showcasing my projects, skills, and experiences. Built with React and styled with modern design principles.
-   [GitHub Repo](https://github.com/yourusername/portfolio) | [Hosted Site](https://yoursite.com/portfolio)
-
-## My Featured Blogs
-
-- [Mastering React Hooks: A Comprehensive Guide](https://yourblog.com/post1)
-- [Building Scalable React Applications with Redux](https://yourblog.com/post2)
-- [Optimizing Performance in React: Tips and Best Practices](https://yourblog.com/post3)
-- [Understanding React Context API: A Practical Overview](https://yourblog.com/post4)
-- [Testing React Components: Strategies and Tools](https://yourblog.com/post5)
-- [Next.js: Building Server-Side Rendered React Apps](https://yourblog.com/post6)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=0xaira&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-<br>
-
-
-<div align="center">
-
-### Show some ❤️ by starring ⭐ some of the repositories!
- 
- <br/>
-
-<h2 align="center">Reach me on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/0xaira) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0xaira) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/0xaira) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@0xaira) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/0xaira) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/0xaira) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xaira) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@0xaira) 
-
-
-</div>
+📫 [airajena.work@gmail.com](mailto:airajena.work@gmail.com) · 🌐 [airajena.in](https://airajena.in) · [LinkedIn](https://www.linkedin.com/in/aira-jena/) · [X](https://twitter.com/Oxaira)
 
 ---
+
+## What I've shipped (with numbers)
+
+| Impact | What I did |
+|---|---|
+| **97% faster API** (21s → 500ms) | Rebuilt a financial reporting pipeline with dependency-aware goroutine fan-out, materialized snapshots (removed 13.7s of recomputation) and multi-tier TTL caching |
+| **200× throughput** (50 → 10K+ tenders/day) | Designed a multi-tenant, multi-vendor processing pipeline with parallel workers, fault-tolerant retries, LLM scoring and PDF/OCR extraction |
+| **87.5% faster pages** (8s → 1s), **99.3% smaller payload** (2MB → 15KB) | Replaced full-table rendering and N+1 lookups with server-side pagination, indexed queries and caching in a Java backend serving 1000+ daily users |
+| **1 round-trip per batch** instead of per-row inserts | Rewrote a Tally import as `unnest()` set-inserts using `WITH ORDINALITY` to resolve foreign keys in order, inside atomic versioned transactions |
+| **30% lower cloud cost, 75% faster deploys** | Provisioned multi-region AWS with Terraform (50+ resources) and built a zero-downtime CI/CD pipeline |
+
+Other work I'm proud of: an offline licensing system (HMAC-SHA256 tokens, machine binding, anti-clock-rollback), and an LLM ledger classifier whose output space is enforced in code so hallucinated categories never reach a financial statement.
+
+---
+
+## Open source
+
+- **Google Summer of Code 2026, Apache Fineract**: building an end-to-end Business Intelligence platform for the core banking system: a 4-service Docker stack with a watermark-based CDC extractor, a layered dbt pipeline (raw → staging → facts → marts), and Apache Superset dashboards with row-level security (PAR-30/60/90, NPA).
+- **[Apache Fineract](https://github.com/apache/fineract)**: shipped the Slack Chat Archive MVP (FINERACT-2171) and led the site migration from static HTML to Hugo, including CI/CD.
+- **[Apache ShenYu](https://github.com/apache/shenyu)** and **Eclipse**: concurrency and infrastructure improvements.
+
+---
+
+## Featured projects
+
+- **HexRide**: distributed ride-sharing platform with 8 microservices, conflict-free driver matching via H3 geospatial indexing, Resilience4j circuit breakers, and a full ELK + Prometheus + Grafana stack. *(Java, Spring Boot, PostgreSQL, Redis, Kafka)*
+- **Multi-Threaded Web Server**: NIO2 server handling 50,000+ req/s at sub-100ms P95, with a custom HTTP/2 parser and Kafka streaming for 1M+ events/day. *(Java, Kafka, Redis, Docker)*
+
+---
+
+## Tech I work with
+
+| | |
+|---|---|
+| **Languages** | Go, Java, Python, SQL, JavaScript, Bash |
+| **Backend** | Spring Boot, Spring Cloud, Hibernate, REST APIs, Flask |
+| **Data** | PostgreSQL, MySQL, MongoDB, Redis, dbt, Apache Superset |
+| **Messaging & Distributed** | Kafka, RabbitMQ, Resilience4j, Eureka |
+| **Cloud & DevOps** | AWS, Terraform, Docker, Kubernetes, GitHub Actions |
+| **Observability** | Prometheus, Grafana, ELK, Zipkin |
+| **AI** | pydantic-ai, OpenAI API, structured-output pipelines |
+
+---
+
+## Recognition
+
+- National Finalist, Smart Odisha · National Semi-Finalist, Flipkart Grid and Tata Imagination Challenge (400K+ participants)
+- 3× Oracle certified: OCI Developer Professional, OCI DevOps Professional, Oracle Agentic AI Foundations Associate
+
+---
+
+**Let's talk** if you're building something where performance, correctness, or data-heavy backends matter. Email works best.
